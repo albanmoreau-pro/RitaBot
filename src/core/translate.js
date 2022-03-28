@@ -1,7 +1,6 @@
 // -----------------
 // Global variables
 // -----------------
-npm install @vitalets/google-translate-api
 // Codebeat:disable[LOC,ABC,BLOCK_NESTING,ARITY]
 /* eslint-disable consistent-return */
 const translate = require('@vitalets/google-translate-api');
