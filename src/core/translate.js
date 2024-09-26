@@ -1,10 +1,9 @@
 // -----------------
 // Global variables
 // -----------------
-
 // Codebeat:disable[LOC,ABC,BLOCK_NESTING,ARITY]
 /* eslint-disable consistent-return */
-const translate = require("rita-google-translate-api");
+const translate = require('@vitalets/google-translate-api');
 const db = require("./db");
 const botSend = require("./send");
 const fn = require("./helpers");
